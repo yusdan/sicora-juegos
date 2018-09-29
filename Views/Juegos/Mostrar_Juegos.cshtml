@@ -1,0 +1,119 @@
+@{
+    ViewData["Title"] = "JUEGOS";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+
+<style type="text/css">
+  .boton_personalizado{
+    margin-left: 35%;
+    margin-bottom: 10%;
+    margin-top: 10%;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 1px solid #1883ba;
+  }
+  .boton_personalizado:hover{
+    color: #1883ba;
+    background-color: #ffffff;
+  }
+  .c-img{ 
+      margin: 1px auto;
+      position: relative;
+      display: flex;
+      position: absolute;
+      align-items: center;
+  }
+
+  img{
+      position: center;
+      height: 400px;
+      padding-left: 15%;
+      padding-right: 15%;
+      padding-bottom: 15%;
+      
+  }
+ .txt{
+      top:0;
+      color:#ffffff;
+      right: 0;
+      text-align: center;
+      width: 400px;
+      padding-top: 30%;
+      padding-right: 25%;
+      padding-left: 25%;
+      padding-bottom: 30%;
+      position: relative;
+      transition: all .3s;
+      opacity: 0;
+      background-color: black;
+      
+      p{
+          padding: 10px 20px;
+      }    
+  }
+
+.txt:hover{
+    opacity: 1;
+}
+
+h3{
+    margin-top: 0%;
+    padding: 20px 30px;
+    text-align: center;
+}
+
+</style>
+
+<table>
+    
+    <tr>
+        <td><div class="c-img"><img src="~/images/overwatch1.jpg" ></div>
+        
+            <div class="txt"><p>
+            Únete a la fuerza legendaria de soldados, científicos, aventureros 
+            y superdotados que componen Overwatch. Elige tu héroe e ingresa a los 
+            campos de batalla del mañana. Toma tu lugar en Overwatch.
+            </p>
+            </div>
+        </td>
+            
+        <td><div class="c-img"><img src="~/images/pubg1.jpg"  ></div>
+
+            <div class="txt"><p>
+            PUBG es un videojuego de acción multijugador que nos trasladará a una enorme extensión de 
+            terreno en el que el objetivo primario será sobrevivir y matar a nuestros competidores.
+            </p>
+            </div>
+        </td>
+
+        <td><div class="c-img"><img src="~/images/spiderman1.jpg"  ></div>
+        <div class="txt"><p>
+            No se trata del Spider-Man que has conocido antes ni visto en alguna otra parte. 
+            Encontraremos a un experimentado Peter Parker, más capacitado en su 
+            lucha contra el crimen organizado de la ciudad de Nueva York.
+        </p></div>
+        </td>
+     </tr> 
+     <tr>
+        <td><div class="fondo"><h3>Overwatch</h3></div></td>
+        <td><div class="fondo"><h3>Playerunknown's battlegrounds</h3></div></td>
+        <td><div class="fondo"><h3>Spiderman Ps4</h3></div></td>
+    </tr> 
+     <tr>
+        <td><div class="fondo"><a href="https://www.youtube.com/watch?v=Xq9X-Q-b4hY" class="boton_personalizado" role="button" aria-pressed="true">Tráiler</a></div></td>
+        <td><div class="fondo"><a href="https://www.youtube.com/watch?v=tKlRN2YpxRE" class="boton_personalizado" role="button" aria-pressed="true">Tráiler</a></div></td>
+        <td><div class="fondo"><a href="https://www.youtube.com/watch?v=utVr-n0MaU0" class="boton_personalizado" role="button" aria-pressed="true">Tráiler</a></div></td>
+     </tr>
+     <tr>
+        <td><button class="boton_personalizado">COMPRAR</button></td>
+        <td><button class="boton_personalizado">COMPRAR</button></td>
+        <td><button class="boton_personalizado">COMPRAR</button></td>
+     </tr>
+    
+</table>

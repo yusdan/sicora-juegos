@@ -1,0 +1,28 @@
+@{
+    ViewData["Title"] = "Perifericos Gamer (E Y S)";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+
+
+<form action="/Perifericos/Registrar_Perifericos" method="post">
+<div class="form-control">
+    <label>ID Perfiferico :  <input type="text" name="Id" /> </label>
+</div>
+<div class="form-control">
+    <label>Nombre :  <input type="text" name="Nombre" /> </label>
+</div>
+<div class="form-control">
+    <label>Tipo de Perfiferico :  <input type="text" name="tipPe" /> </label>
+</div>
+<div class="form-control">
+    <label>Marca :  <input type="text" name="Marca" /> </label>
+</div>
+<div class="form-control">
+    <label>Descripción :  <input type="text" name="descripcion" /> </label>
+</div>
+
+<div class="form-control">
+    <button>Registrar </button>
+</div>
+</form>

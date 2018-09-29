@@ -1,0 +1,66 @@
+C:\Users\paolo_000\Desktop\SICORA\bin\Debug\netcoreapp2.0\SICORA.deps.json
+C:\Users\paolo_000\Desktop\SICORA\bin\Debug\netcoreapp2.0\SICORA.runtimeconfig.json
+C:\Users\paolo_000\Desktop\SICORA\bin\Debug\netcoreapp2.0\SICORA.runtimeconfig.dev.json
+C:\Users\paolo_000\Desktop\SICORA\bin\Debug\netcoreapp2.0\SICORA.dll
+C:\Users\paolo_000\Desktop\SICORA\bin\Debug\netcoreapp2.0\SICORA.pdb
+C:\Users\paolo_000\Desktop\SICORA\obj\Debug\netcoreapp2.0\SICORA.csprojAssemblyReference.cache
+C:\Users\paolo_000\Desktop\SICORA\obj\Debug\netcoreapp2.0\SICORA.csproj.CoreCompileInputs.cache
+C:\Users\paolo_000\Desktop\SICORA\obj\Debug\netcoreapp2.0\SICORA.AssemblyInfoInputs.cache
+C:\Users\paolo_000\Desktop\SICORA\obj\Debug\netcoreapp2.0\SICORA.AssemblyInfo.cs
+C:\Users\paolo_000\Desktop\SICORA\obj\Debug\netcoreapp2.0\SICORA.dll
+C:\Users\paolo_000\Desktop\SICORA\obj\Debug\netcoreapp2.0\SICORA.pdb
+C:\Users\Clase\Desktop\SICORA\bin\Debug\netcoreapp2.0\SICORA.deps.json
+C:\Users\Clase\Desktop\SICORA\bin\Debug\netcoreapp2.0\SICORA.runtimeconfig.json
+C:\Users\Clase\Desktop\SICORA\bin\Debug\netcoreapp2.0\SICORA.runtimeconfig.dev.json
+C:\Users\Clase\Desktop\SICORA\bin\Debug\netcoreapp2.0\SICORA.dll
+C:\Users\Clase\Desktop\SICORA\bin\Debug\netcoreapp2.0\SICORA.pdb
+C:\Users\Clase\Desktop\SICORA\obj\Debug\netcoreapp2.0\SICORA.csprojAssemblyReference.cache
+C:\Users\Clase\Desktop\SICORA\obj\Debug\netcoreapp2.0\SICORA.csproj.CoreCompileInputs.cache
+C:\Users\Clase\Desktop\SICORA\obj\Debug\netcoreapp2.0\SICORA.AssemblyInfoInputs.cache
+C:\Users\Clase\Desktop\SICORA\obj\Debug\netcoreapp2.0\SICORA.AssemblyInfo.cs
+C:\Users\Clase\Desktop\SICORA\obj\Debug\netcoreapp2.0\SICORA.dll
+C:\Users\Clase\Desktop\SICORA\obj\Debug\netcoreapp2.0\SICORA.pdb
+C:\Users\Sebas\Documents\SICORA\SICORA\bin\Debug\netcoreapp2.0\SICORA.deps.json
+C:\Users\Sebas\Documents\SICORA\SICORA\bin\Debug\netcoreapp2.0\SICORA.runtimeconfig.json
+C:\Users\Sebas\Documents\SICORA\SICORA\bin\Debug\netcoreapp2.0\SICORA.runtimeconfig.dev.json
+C:\Users\Sebas\Documents\SICORA\SICORA\bin\Debug\netcoreapp2.0\SICORA.dll
+C:\Users\Sebas\Documents\SICORA\SICORA\bin\Debug\netcoreapp2.0\SICORA.pdb
+C:\Users\Sebas\Documents\SICORA\SICORA\obj\Debug\netcoreapp2.0\SICORA.csprojResolveAssemblyReference.cache
+C:\Users\Sebas\Documents\SICORA\SICORA\obj\Debug\netcoreapp2.0\SICORA.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\Documents\SICORA\SICORA\obj\Debug\netcoreapp2.0\SICORA.AssemblyInfoInputs.cache
+C:\Users\Sebas\Documents\SICORA\SICORA\obj\Debug\netcoreapp2.0\SICORA.AssemblyInfo.cs
+C:\Users\Sebas\Documents\SICORA\SICORA\obj\Debug\netcoreapp2.0\SICORA.dll
+C:\Users\Sebas\Documents\SICORA\SICORA\obj\Debug\netcoreapp2.0\SICORA.pdb
+C:\Users\Clase\Desktop\SICORA FINAL\obj\Debug\netcoreapp2.0\SICORA.csprojAssemblyReference.cache
+C:\Users\Clase\Desktop\SICORA FINAL\obj\Debug\netcoreapp2.0\SICORA.csproj.CoreCompileInputs.cache
+C:\Users\Clase\Desktop\SICORA FINAL\obj\Debug\netcoreapp2.0\SICORA.AssemblyInfoInputs.cache
+C:\Users\Clase\Desktop\SICORA FINAL\obj\Debug\netcoreapp2.0\SICORA.AssemblyInfo.cs
+C:\Users\Clase\Desktop\SICORA FINAL\obj\Debug\netcoreapp2.0\SICORA.dll
+C:\Users\Clase\Desktop\SICORA FINAL\obj\Debug\netcoreapp2.0\SICORA.pdb
+C:\Users\Clase\Desktop\SICORA FINAL\bin\Debug\netcoreapp2.0\SICORA.deps.json
+C:\Users\Clase\Desktop\SICORA FINAL\bin\Debug\netcoreapp2.0\SICORA.runtimeconfig.json
+C:\Users\Clase\Desktop\SICORA FINAL\bin\Debug\netcoreapp2.0\SICORA.runtimeconfig.dev.json
+C:\Users\Clase\Desktop\SICORA FINAL\bin\Debug\netcoreapp2.0\SICORA.dll
+C:\Users\Clase\Desktop\SICORA FINAL\bin\Debug\netcoreapp2.0\SICORA.pdb
+C:\Users\Clase\Desktop\prueba\SICORA-FINAL-master\bin\Debug\netcoreapp2.0\SICORA.deps.json
+C:\Users\Clase\Desktop\prueba\SICORA-FINAL-master\bin\Debug\netcoreapp2.0\SICORA.runtimeconfig.json
+C:\Users\Clase\Desktop\prueba\SICORA-FINAL-master\bin\Debug\netcoreapp2.0\SICORA.runtimeconfig.dev.json
+C:\Users\Clase\Desktop\prueba\SICORA-FINAL-master\bin\Debug\netcoreapp2.0\SICORA.dll
+C:\Users\Clase\Desktop\prueba\SICORA-FINAL-master\bin\Debug\netcoreapp2.0\SICORA.pdb
+C:\Users\Clase\Desktop\prueba\SICORA-FINAL-master\obj\Debug\netcoreapp2.0\SICORA.csprojAssemblyReference.cache
+C:\Users\Clase\Desktop\prueba\SICORA-FINAL-master\obj\Debug\netcoreapp2.0\SICORA.csproj.CoreCompileInputs.cache
+C:\Users\Clase\Desktop\prueba\SICORA-FINAL-master\obj\Debug\netcoreapp2.0\SICORA.AssemblyInfoInputs.cache
+C:\Users\Clase\Desktop\prueba\SICORA-FINAL-master\obj\Debug\netcoreapp2.0\SICORA.AssemblyInfo.cs
+C:\Users\Clase\Desktop\prueba\SICORA-FINAL-master\obj\Debug\netcoreapp2.0\SICORA.dll
+C:\Users\Clase\Desktop\prueba\SICORA-FINAL-master\obj\Debug\netcoreapp2.0\SICORA.pdb
+C:\Users\HP-ENVY\Desktop\trabajo de progra\prueba\SICORA-FINAL-master\bin\Debug\netcoreapp2.0\SICORA.deps.json
+C:\Users\HP-ENVY\Desktop\trabajo de progra\prueba\SICORA-FINAL-master\bin\Debug\netcoreapp2.0\SICORA.runtimeconfig.json
+C:\Users\HP-ENVY\Desktop\trabajo de progra\prueba\SICORA-FINAL-master\bin\Debug\netcoreapp2.0\SICORA.runtimeconfig.dev.json
+C:\Users\HP-ENVY\Desktop\trabajo de progra\prueba\SICORA-FINAL-master\bin\Debug\netcoreapp2.0\SICORA.dll
+C:\Users\HP-ENVY\Desktop\trabajo de progra\prueba\SICORA-FINAL-master\bin\Debug\netcoreapp2.0\SICORA.pdb
+C:\Users\HP-ENVY\Desktop\trabajo de progra\prueba\SICORA-FINAL-master\obj\Debug\netcoreapp2.0\SICORA.csprojAssemblyReference.cache
+C:\Users\HP-ENVY\Desktop\trabajo de progra\prueba\SICORA-FINAL-master\obj\Debug\netcoreapp2.0\SICORA.csproj.CoreCompileInputs.cache
+C:\Users\HP-ENVY\Desktop\trabajo de progra\prueba\SICORA-FINAL-master\obj\Debug\netcoreapp2.0\SICORA.AssemblyInfoInputs.cache
+C:\Users\HP-ENVY\Desktop\trabajo de progra\prueba\SICORA-FINAL-master\obj\Debug\netcoreapp2.0\SICORA.AssemblyInfo.cs
+C:\Users\HP-ENVY\Desktop\trabajo de progra\prueba\SICORA-FINAL-master\obj\Debug\netcoreapp2.0\SICORA.dll
+C:\Users\HP-ENVY\Desktop\trabajo de progra\prueba\SICORA-FINAL-master\obj\Debug\netcoreapp2.0\SICORA.pdb
